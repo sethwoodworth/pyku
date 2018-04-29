@@ -9,6 +9,7 @@ click = ">=6.0"
 [dev-packages]
 recommonmark = "*"
 pylint = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.6"
